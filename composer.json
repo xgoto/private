@@ -17,10 +17,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-<<<<<<< HEAD
+
         "psr-0": { "test": "src/" }
-=======
-        "psr-0": { "Private": "src/" }
->>>>>>> b04eaf42d5abf26602c77afc4d98191322c24b4c
+
     }
 }
